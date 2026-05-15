@@ -1,12 +1,7 @@
-## Hi there 👋
+Quiet Signals Lab is a sole proprietorship owned by Alexander Hepburn. We are based in Amsterdam, Netherlands 🇪🇺
 
-<!--
+We build software and conduct applied research at the intersection of machine learning, privacy and knowledge engineering.
 
-**Here are some ideas to get you started:**
+We are involved in several open-source initiatives listed on this page.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Read more about our work on (our website)[https://quietsignalslab.com].
