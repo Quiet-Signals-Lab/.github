@@ -4,4 +4,4 @@ We build software and conduct applied research at the intersection of machine le
 
 We are involved in several open-source initiatives listed on this page.
 
-Read more about our work on (our website)[https://quietsignalslab.com].
+Read more about our work on [our website](https://quietsignalslab.com).
