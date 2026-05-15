@@ -5,3 +5,5 @@ We build software and conduct applied research at the intersection of machine le
 We are involved in several open-source initiatives listed on this page.
 
 Read more about our work on [our website](https://quietsignalslab.com).
+
+Follow Quiet Signals Lab on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/quiet-signals-lab)
