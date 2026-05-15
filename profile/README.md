@@ -11,4 +11,4 @@ Follow our work:
 [![Website](https://img.shields.io/badge/Website-QUIET%20SIGNALS%20LAB-6b7280?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quietsignalslab.com)
 
 
-Made in Europe with love ![EU Flag](https://flagcdn.com/w40/eu.png) ![Heart](https://img.shields.io/badge/❤-red?style=for-the-badge)
+Made in Europe with love ![EU Flag](https://flagcdn.com/w40/eu.png) ![Heart](https://img.shields.io/badge/❤-EU%20love-red?style=flat-square)
