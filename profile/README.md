@@ -1,4 +1,4 @@
-Quiet Signals Lab is a sole proprietorship owned by Alexander Hepburn. We are based in Amsterdam, Netherlands ![EU Flag](https://flagcdn.com/w20/eu.png)
+Quiet Signals Lab is a sole proprietorship owned by Alexander Hepburn. We are based in Amsterdam, Netherlands ![EU Flag](https://flagcdn.com/w40/eu.png)
 
 We build software and conduct applied research at the intersection of machine learning, privacy and knowledge engineering.
 
